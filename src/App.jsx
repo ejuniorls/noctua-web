@@ -4,7 +4,7 @@ import AppRoutes from './routes';
 function App() {
   return (
     <div className="App">
-      <div class="container mx-auto px-4 bg-green-500">
+      <div>
         <AppRoutes />
       </div>
     </div>
