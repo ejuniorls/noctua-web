@@ -1,0 +1,10 @@
+{
+  "welcome": "Welcome to noctua",
+  "welcome_desc": "Please sign up to continue",
+  "label_username": "Username",
+  "label_email": "E-mail",
+  "label_password": "Password",
+  "form_remember": "Remember Me",
+  "forgot_password": "Forgot Password?",
+  "btn_signin": "Sign in"
+}
